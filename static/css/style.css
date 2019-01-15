@@ -245,6 +245,13 @@ progress::-moz-progress-value {
 
 }
 
+.content-right {
+    float: right;
+    margin-left: 20px;
+    visibility: hidden;
+    cursor: pointer;
+}
+
 .info-header .item-add {
     float: right;
     margin-left: 20px;
